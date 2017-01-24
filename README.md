@@ -7,7 +7,7 @@
 node -v
 
 <h5>Download Angular CLI with the help of npm (node package manager)</h5>
-nmp install -g angular-cli
+npm install -g angular-cli
 
 <h5>Check the ng command would be avaliable</h5>
 ng -v
