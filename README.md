@@ -1,19 +1,16 @@
 # angularDemo
-Demo for Angular App
+<h1>Demo for Angular App</h1>
 
 
-First need to have node.js on system
-Check on CMD node -v
+<h5>First need to have node.js on system <span>Check on CMD</span></h5>
 
-Download Angular CLI with the help of npm (node manager)
+node -v
+
+<h5>Download Angular CLI with the help of npm (node package manager)</h5>
 nmp install -g angular-cli
 
-Check the ng command would be avaliable
+<h5>Check the ng command would be avaliable</h5>
 ng -v
 
-Then,create new app using
+<h5>Then,create new app using</h5>
 ng new foldername
-
-
-
-You are ready with angular CLI
